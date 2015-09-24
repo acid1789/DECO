@@ -1,0 +1,18 @@
+D:\Deco\DecoLoginServer\DecoLoginServer\obj\Debug\DecoLoginServer.csproj.GenerateResource.Cache
+D:\Deco\DecoLoginServer\bin\Debug\DecoLoginServer.exe.config
+D:\Deco\DecoLoginServer\bin\Debug\DecoLoginServer.exe
+D:\Deco\DecoLoginServer\bin\Debug\DecoLoginServer.pdb
+D:\Deco\DecoLoginServer\DecoLoginServer\obj\Debug\DecoLoginServer.Properties.Resources.resources
+D:\Deco\DecoLoginServer\DecoLoginServer\obj\Debug\DecoLoginServer.exe
+D:\Deco\DecoLoginServer\DecoLoginServer\obj\Debug\DecoLoginServer.pdb
+D:\Deco\DecoLoginServer\DecoLoginServer\obj\Debug\DecoLoginServer.csprojResolveAssemblyReference.cache
+D:\Deco\DecoLoginServer\DecoLoginServer\obj\Debug\DecoLoginServer.frmMain.resources
+D:\Deco\Deco Server\bin\Debug\DecoLoginServer.exe.config
+D:\Deco\Deco Server\DecoLoginServer\obj\Debug\DecoLoginServer.exe
+D:\Deco\Deco Server\DecoLoginServer\obj\Debug\DecoLoginServer.pdb
+D:\Deco\Deco Server\bin\Debug\DecoLoginServer.exe
+D:\Deco\Deco Server\bin\Debug\DecoLoginServer.pdb
+D:\Deco\Deco Server\DecoLoginServer\obj\Debug\DecoLoginServer.csprojResolveAssemblyReference.cache
+D:\Deco\Deco Server\DecoLoginServer\obj\Debug\DecoLoginServer.frmMain.resources
+D:\Deco\Deco Server\DecoLoginServer\obj\Debug\DecoLoginServer.Properties.Resources.resources
+D:\Deco\Deco Server\DecoLoginServer\obj\Debug\DecoLoginServer.csproj.GenerateResource.Cache

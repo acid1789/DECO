@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoLoginServer", "DecoLoginServer\DecoLoginServer.csproj", "{8C3D7037-E252-471E-B8B6-260F3A965368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoPlayServer", "DecoPlayServer\DecoPlayServer.csproj", "{BF1D3C20-6282-446F-B766-E76A3424C62A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoVersionServer", "DecoVersionServer\DecoVersionServer.csproj", "{61AD08DC-DBCA-47F8-906D-E58F332873BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3D7037-E252-471E-B8B6-260F3A965368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3D7037-E252-471E-B8B6-260F3A965368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3D7037-E252-471E-B8B6-260F3A965368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3D7037-E252-471E-B8B6-260F3A965368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1D3C20-6282-446F-B766-E76A3424C62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1D3C20-6282-446F-B766-E76A3424C62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1D3C20-6282-446F-B766-E76A3424C62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1D3C20-6282-446F-B766-E76A3424C62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AD08DC-DBCA-47F8-906D-E58F332873BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AD08DC-DBCA-47F8-906D-E58F332873BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AD08DC-DBCA-47F8-906D-E58F332873BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AD08DC-DBCA-47F8-906D-E58F332873BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
